@@ -1,0 +1,14 @@
+.header {
+    height: 125px;
+    background-color: #f0f0f0;
+    align-items: center;
+    text-align: center;
+}
+
+.header h1 {
+    color: blue;
+}
+
+.header p {
+    font-size: 25px;
+}

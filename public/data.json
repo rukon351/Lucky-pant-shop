@@ -1,0 +1,92 @@
+[
+    {
+        "id": "629622ecc2b43923699397b9",
+        "picture": "https://img.freepik.com/free-photo/jeans_1203-8095.jpg?size=626&ext=jpg&ga=GA1.2.1813098496.1653999297",
+        "price": 800,
+        "name": "Casual Jeans"
+    },
+    {
+        "id": "629622ec6642cb114d872235",
+        "picture": "https://img.freepik.com/free-photo/jeans_1203-8094.jpg?size=338&ext=jpg&ga=GA1.2.1813098496.1653999297",
+        "price": 432,
+        "name": "Jeans formal"
+    },
+    {
+        "id": "629622ecb381ccc2f5daf735",
+        "picture": "https://img.freepik.com/free-photo/casual-men-short-pants_1203-8186.jpg?size=338&ext=jpg&ga=GA1.2.1813098496.1653999297",
+        "price": 710,
+        "name": "Rosalie Jeans Casual"
+    },
+    {
+        "id": "629622ec3814a0d475858f60",
+        "picture": "https://img.freepik.com/free-psd/jeans-tag-mockup_1389-1071.jpg?size=626&ext=jpg&ga=GA1.2.1813098496.1653999297",
+        "price": 33,
+        "name": "Lessie Bullock Jeans"
+    },
+    {
+        "id": "629622ec324cbdd89c4cacff",
+        "picture": "https://img.freepik.com/free-photo/purple-lipstick-blue-jeans-pocket-white-background_23-2147891350.jpg?size=626&ext=jpg&ga=GA1.2.1813098496.1653999297",
+        "price": 139,
+        "name": "Wright Everett Jeans"
+    },
+    {
+        "id": "629622ec0a3016c0bfcd526d",
+        "picture": "https://img.freepik.com/free-psd/ripped-jean-shorts-with-tag-mockup_53876-65769.jpg?size=626&ext=jpg&ga=GA1.2.1813098496.1653999297",
+        "price": 799,
+        "name": "Kirsten Conner Jeans"
+    },
+    {
+        "id": "629622ecd24c790f1754f084",
+        "picture": "https://img.freepik.com/free-photo/jeans-with-black-friday-tag-attached_23-2148288257.jpg?size=626&ext=jpg&ga=GA1.2.1813098496.1653999297",
+        "price": 159,
+        "name": "Moss Dillard Jeans"
+    },
+    {
+        "id": "629622ece3b6eb10f70c9eb6",
+        "picture": "https://img.freepik.com/free-photo/jeans_1203-8093.jpg?size=338&ext=jpg&ga=GA1.2.1813098496.1653999297",
+        "price": 451,
+        "name": "Mcfarland Crosby Jeans"
+    },
+    {
+        "id": "629622ece06a056e62e85ec2",
+        "picture": "https://img.freepik.com/free-photo/close-up-stylish-traveler-jeans_23-2148357267.jpg?size=626&ext=jpg&ga=GA1.2.1813098496.1653999297",
+        "price": 91,
+        "name": "Garcia Knowles Jeans"
+    },
+    {
+        "id": "629622ecafba7eec856ee278",
+        "picture": "https://img.freepik.com/free-photo/stack-clothes-white_93675-18102.jpg?size=626&ext=jpg&ga=GA1.2.1813098496.1653999297",
+        "price": 446,
+        "name": "Webster Savage Jeans"
+    },
+    {
+        "id": "629622ec35a38242f5810dca",
+        "picture": "https://img.freepik.com/free-psd/ripped-jean-shorts-with-tag-mockup_53876-65767.jpg?size=626&ext=jpg&ga=GA1.2.1813098496.1653999297",
+        "price": 569,
+        "name": "Traci Simon Jeans"
+    },
+    {
+        "id": "629622ece1e08ebd51506bf2",
+        "picture": "https://img.freepik.com/free-photo/handsome-businesman-summer-city_1157-18988.jpg?size=626&ext=jpg&ga=GA1.2.1813098496.1653999297",
+        "price": 44,
+        "name": "Manuela Camacho Formal"
+    },
+    {
+        "id": "629622ec8107facb0495305d",
+        "picture": "https://img.freepik.com/free-photo/business-man-going-meeting_53876-163206.jpg?size=626&ext=jpg&ga=GA1.2.1813098496.1653999297",
+        "price": 604,
+        "name": "Jens out Fuller Formal"
+    },
+    {
+        "id": "629622ec8107facb0451305d",
+        "picture": "https://img.freepik.com/free-photo/blue-jeans-fabric-details_150588-40.jpg?size=626&ext=jpg&ga=GA1.2.1813098496.1653999297",
+        "price": 654,
+        "name": "Callie cotton Formal"
+    },
+    {
+        "id": "629622ec8107fac45925305d",
+        "picture": "https://img.freepik.com/free-photo/bunch-jeans-wooden-wall-fashionable-clothes_169016-5201.jpg?size=626&ext=jpg&ga=GA1.2.1813098496.1653999297",
+        "price": 804,
+        "name": "Jean for Formal"
+    }
+]
