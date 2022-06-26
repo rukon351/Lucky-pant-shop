@@ -35,6 +35,7 @@ const Shop = () => {
                 {
                     cart.map(pd => <Cart key={pd.key} product={pd}></Cart>)
                 }
+                <button className='cart-btn'> Choose One</button>
             </div>
         </div>
     );
